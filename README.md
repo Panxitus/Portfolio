@@ -177,8 +177,7 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENS
 
 ## Autores
 
-- **Brayan Diaz C** - _Trabajo inicial_ - [Brayan Diaz C](https://github.com/brayandiazc)
+- **Framcisco González Uribe** - _Trabajo inicial_
 
 ---
 
-⌨️ con ❤️ por [Adalid CL](https://github.com/adalid-cl) 😊
