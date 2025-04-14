@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Proyecto Hospital",
+    "description": "Sitio web de hospital.",
+    "image": "https://media.istockphoto.com/id/1524913019/es/vector/ilustraci%C3%B3n-vectorial-de-edificio-hospitalario-en-dise%C3%B1o-de-estilo-plano.jpg?s=612x612&w=0&k=20&c=cFoEh3UD-vRYc4JYabccdkpwHrHlWijp0et1UnkwBLQ=",
+    "githubUrl":"https://github.com/Panxitus/HospitalReact",
+    "tags": ["React", "Sass", "javascript"]
+  },
+  {
+    "id": 2,
+    "name": "Rescate de Vehículos Pesados",
+    "description": "Aplicación de gestión de rescates de vehículos pesados.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6XxKIJ9_HakYGP4avyJyfWp9pZXtSxaViA&s",
+    "githubUrl":"https://github.com/Panxitus/Tesis",
+    "tags": ["C#", "Visual Studio", "Firebase", "sql server"]
+  }
+  
+]
