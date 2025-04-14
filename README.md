@@ -6,7 +6,7 @@ Un portafolio profesional de una sola página (One Page) orientado al sector tec
 
 Este proyecto es un portafolio web personal responsivo que carga dinámicamente toda la información desde archivos JSON. Está diseñado para desarrolladores y profesionales del sector tecnológico que desean mostrar su trabajo de forma profesional y personalizable sin necesidad de modificar código fuente.
 
-![Web](public/web.jpeg)
+![Web](public/web.jpg)
 
 ## Características Principales
 
